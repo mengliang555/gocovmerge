@@ -1,4 +1,4 @@
-module gocovmerge
+module github.com/mengliang555/gocovmerge
 
 go 1.17
 
